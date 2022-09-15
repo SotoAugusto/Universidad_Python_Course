@@ -24,3 +24,10 @@ print(y)
 
 print("La suma de X y Y es: ")
 print(z)
+
+print("la direccion de memoria de la variable X es: ")
+print(id(x))
+print("la direccion de memoria de la variable Y es: ")
+print(id(y))
+print("la direccion de memoria de la variable Z es: ")
+print(id(z))
